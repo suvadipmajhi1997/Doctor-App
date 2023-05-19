@@ -58,7 +58,7 @@ This API will accept a patient ID, and on calling this API, it will suggest the 
 
 1. Clone the repository:
 ```
-git clone https://github.com/abhishek-singh-manhas/DoctorPatient.git
+git clone https://github.com/suvadipmajhi1997/Doctor-App
 ```
 
 2. Open the project in your favorite IDE
